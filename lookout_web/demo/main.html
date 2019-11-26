@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <!-- BootStrap Theme to Save Time -->
+  <link rel="stylesheet" href="https://bootswatch.com/4/flatly/bootstrap.min.css">
+  <!-- Font Awesome Kit -->
+  <script src="https://kit.fontawesome.com/d031685d80.js" crossorigin="anonymous"></script>
+  <title>L00King Out App</title>
+</head>
+<body>
+  <div class="container mt-4">
+    <h1 class="display-4 text-center">
+      <i class="fas fa-tasks text-primary"></i> L00King<span class="text-primary">Out</span> Tasks</h1>
+      <form id="gig-form">
+        <div id="form-group">
+          <label-for="task">Task:</label>
+          <input type="text" id="task" class="form-control">
+        </div>
+      <form id="gig-form">
+        <div id="form-group">
+          <label-for="author">Submitted By:</label>
+          <input type="text" id="author" class="form-control">
+        </div>
+      <form id="gig-form">
+        <div id="form-group">
+          <label-for="badge">Company ID:</label>
+          <input type="text" id="badge" class="form-control">
+        </div>
+        <input type="submit" value="Submit" class="btn btn-primary btn-block">
+      </form>
+      <table class="table table-striped mt-5">
+        <thead>
+          <tr>
+            <th>Task:</th>
+            <th>Submitted By:</th>
+            <th>Company ID:</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody id="gig-list"></tbody>
+      </table>
+
+      
+  </div>
+<script src="app.js"></script>
+</body>
+</html>

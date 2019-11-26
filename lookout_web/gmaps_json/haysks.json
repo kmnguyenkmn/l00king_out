@@ -1,0 +1,23 @@
+{ "markers": [
+    {
+      "name": "Fort Hays Historic Site",
+      "location": [38.8616784, -99.3423263, 3]
+    },
+    {
+      "name": "Fort Hays State University",
+      "location": [38.8714, -99.3445, 1]
+    },
+    {
+      "name": "Forsyth Library",
+      "location": [38.8721, -99.3424, 2]
+    },
+    {
+      "name": "Agricultural Research Center - Hays",
+      "location": [38.857060, -99.336680, 4]
+    },
+    {
+      "name": "Hays Area Children's Center",
+      "location": [38.866800, -99.340150, 5]
+    }
+  ]
+}
