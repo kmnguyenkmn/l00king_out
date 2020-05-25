@@ -1,8 +1,8 @@
-# l00king_out
+# Please see new repo: https://github.com/kmnguyenkmn/l00kout
+
+### l00king_out
 #### Group project for Innovation and Entrepeneurship class at FHSU. Concept/idea of the app belongs to my classmate, Michael Malone.
 
-###### Website: 
-https://l00kingout.000webhostapp.com/
 
 ##### Part of a project, the concept/idea was written by one of my classmates (Michael Malone) and was chosen by our instructor.
 ##### Fort Hays State University
